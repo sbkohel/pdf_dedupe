@@ -1,0 +1,1 @@
+rootProject.name = "PDF_dupe_check"
